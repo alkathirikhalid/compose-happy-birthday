@@ -14,4 +14,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Happy Birthday"
-include(":app")
+include(":birthdaycard")
+include(":composearticle")
