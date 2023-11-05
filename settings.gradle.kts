@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 rootProject.name = "Happy Birthday"
 include(":birthdaycard")
 include(":composearticle")
+include(":taskmanager")
